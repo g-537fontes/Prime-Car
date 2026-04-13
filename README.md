@@ -62,6 +62,8 @@ O browser abrirá automaticamente em `http://localhost:8501`
 
 - Extensão SQLite Viewer e SQLite
 - Executar etl.py e colocar o comando no terminal python etl.py -> Executar dashboard.py e colocar o comando no terminal python -m streamlit run dashboard.py
+- py -3.14 etl.py Obs.: colocar o número da sua versão instalado do python no comando 
+- py -3.14 -m streamlit run dashboard.py Obs.: colocar o número da sua versão instalado do python no comando
 
 ---
 
