@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore")
 # Credenciais do banco de dados de origem
 SOURCE_CONFIG = {
     "user":             "consulta",
-    "password":         "AVNS_DPtGCiuDuKw46LcRCjB",
+    "password":         "",
     "host":             "mysql-3fa4fc41-giga-d6d4.l.aivencloud.com",
     "port":             13729,
     "database":         "prime_vendas",
